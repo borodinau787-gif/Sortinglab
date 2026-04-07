@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d3296d-7518-401c-b031-ce680662d21f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sortinglab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_sorting.py" afterDir="false" />
+    <list default="true" id="14d3296d-7518-401c-b031-ce680662d21f" name="Changes" comment="Added Binary Sort">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +21,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/bubble_sort" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;borodinau787-gif&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/borodinau787-gif/Sortinglab.git&quot;,
+    &quot;accountId&quot;: &quot;20e51ae6-c28a-4b45-9d35-4a22dc4024ac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3C25mv6Quratp9DghacH2byQRvr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,10 +54,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_sorting.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "feature/binary__sort"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +82,53 @@
       <option name="presentableId" value="Default" />
       <updated>1775570986699</updated>
     </task>
+    <task id="LOCAL-00001" summary="final fix">
+      <option name="closed" value="true" />
+      <created>1775571129622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775571129622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final fix">
+      <option name="closed" value="true" />
+      <created>1775571148698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775571148698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Binary Sort">
+      <option name="closed" value="true" />
+      <created>1775571386657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775571386657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Bubble Sort">
+      <option name="closed" value="true" />
+      <created>1775571438544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775571438544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Binary Sort">
+      <option name="closed" value="true" />
+      <created>1775571526711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775571526711</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final fix" />
+    <MESSAGE value="Added Bubble Sort" />
+    <MESSAGE value="Added Binary Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Binary Sort" />
   </component>
 </project>
